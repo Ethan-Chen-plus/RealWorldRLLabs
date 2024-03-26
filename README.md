@@ -30,7 +30,8 @@ We have introduced a novel benchmark utilizing STM32F103 and Raspberry Pi 4B+ pl
 Explore our collection of videos showcasing the training and implementation of reinforcement learning algorithms in various robotic control tasks. Witness the power of RL in action as our robots learn, adapt, and perform complex tasks in physical environments.
 
 [![RL Training Session 1](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "RL Training Session 1")
-[![RL Training Session 2](http://img.youtube.com/vi/LGF2Fo9rasg/0.jpg)](http://www.youtube.com/watch?v=LGF2Fo9rasg)
+
+[![Mastering the Inverted Pendulum: Reinforcement Learning on Raspberry Pi](https://res.cloudinary.com/marcomontalbano/image/upload/v1711451412/video_to_markdown/images/youtube--LGF2Fo9rasg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LGF2Fo9rasg "Mastering the Inverted Pendulum: Reinforcement Learning on Raspberry Pi")
 
 
 
