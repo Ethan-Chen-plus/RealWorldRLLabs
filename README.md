@@ -33,6 +33,10 @@ Explore our collection of videos showcasing the training and implementation of r
 
 [![Mastering the Inverted Pendulum: Reinforcement Learning on Raspberry Pi](https://res.cloudinary.com/marcomontalbano/image/upload/v1711451412/video_to_markdown/images/youtube--LGF2Fo9rasg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LGF2Fo9rasg "Mastering the Inverted Pendulum: Reinforcement Learning on Raspberry Pi")
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=LGF2Fo9rasg"><img src="https://img.youtube.com/vi/LGF2Fo9rasg/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 
 
 ## Get Involved
