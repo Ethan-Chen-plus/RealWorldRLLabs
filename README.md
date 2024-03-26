@@ -38,6 +38,9 @@ Explore our collection of videos showcasing the training and implementation of r
 <div align="center">
   <a href="https://www.youtube.com/watch?v=LGF2Fo9rasg"><img src="https://img.youtube.com/vi/LGF2Fo9rasg/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
+
+- [Twitter](#)
+- [LinkedIn](#)
 -->
 
 <div style="text-align:center;">
@@ -62,7 +65,6 @@ Interested in contributing to Real World RL Labs? We are always looking for coll
 Stay updated with our latest research, publications, and videos. Follow us on social media and our GitHub repository.
 
 - [GitHub](https://github.com/Ethan-Chen-plus/RL-Robotic-Control-Benchmark)
-- [Twitter](#)
-- [LinkedIn](#)
+- [YouTuBe](https://www.youtube.com/@realworldRL)
 
 Thank you for visiting Real World RL Labs. Together, we are shaping the future of robotic control through the innovative application of reinforcement learning.
