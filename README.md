@@ -30,9 +30,9 @@ We have introduced a novel benchmark utilizing STM32F103 and Raspberry Pi 4B+ pl
 Explore our collection of videos showcasing the training and implementation of reinforcement learning algorithms in various robotic control tasks. Witness the power of RL in action as our robots learn, adapt, and perform complex tasks in physical environments.
 
 [![RL Training Session 1](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "RL Training Session 1")
-[![RL Training Session 2](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "RL Training Session 2")
+[![RL Training Session 2](http://img.youtube.com/vi/LGF2Fo9rasg/0.jpg)](http://www.youtube.com/watch?v=LGF2Fo9rasg)
 
-*Note: Replace `VIDEO_ID` with the actual YouTube video ID.*
+
 
 ## Get Involved
 
