@@ -51,6 +51,19 @@ Explore our collection of videos showcasing the training and implementation of r
   allowfullscreen></iframe>
 </div>
 
+Watch the fascinating process of a reinforcement learning algorithm training a physical inverted pendulum to balance. The top half of the video showcases the actual pendulum setup, reflecting the real-time responses and adjustments made by the algorithm. The bottom half of the video displays the reward curve, which is crucial in understanding the learning progress.
+
+
+<div style="text-align:center;">
+  <iframe width="560" height="630"
+  src="https://www.youtube.com/embed/eUFUPuXiLfs" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen></iframe>
+</div>
+
+
+
 
 
 
