@@ -2,6 +2,10 @@
 
 Welcome to Real World RL Labs, a pioneering initiative dedicated to advancing the field of robotic control through the application of reinforcement learning (RL) in physical environments. Our mission is to bridge the gap between theoretical RL models and their practical implementation in robotics, providing empirical evidence and innovative solutions to enhance robotic intelligence and functionality.
 
+<div style="text-align:center">
+    <img src="assets/Physical Connectivity Diagramnew.png" alt="Image" />
+</div>
+
 ## About Us
 
 Real World RL Labs is led by a team of researchers and engineers passionate about leveraging the power of RL to solve real-world problems. Our work focuses on creating and testing RL algorithms in physical scenarios, moving beyond simulations to address the unique challenges of real-world applications.
@@ -9,6 +13,11 @@ Real World RL Labs is led by a team of researchers and engineers passionate abou
 ## Our Research
 
 Our research encompasses a broad spectrum of RL applications in robotics, from policy representation and optimization to addressing the simulation-to-reality gap. We are committed to developing methodologies that not only advance academic understanding but also have practical implications for industry and robotics applications.
+
+<div style="text-align:center">
+    <img src="assets/Evolving Strategy Comparisons in Computational Models.png" alt="Image" />
+</div>
+
 
 
 <!---
